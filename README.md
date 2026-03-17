@@ -22,6 +22,7 @@ Rather than manually coding every frontend component, I took a systems-level app
 The platform features role-specific interfaces designed for clear navigation and data visualization.
 
 **Mobile Search Interface**
+
 ![Mobile Search](assets/image/juju-mobile.png)
 
 **Driver Dashboard:** Tracks completed rides, eco-points earned, and CO₂ saved.
