@@ -25,16 +25,16 @@ The platform features role-specific interfaces designed for clear navigation and
 ![Mobile Search](assets/image/juju-mobile.png)
 
 **Driver Dashboard:** Tracks completed rides, eco-points earned, and CO₂ saved.
-![Driver Dashboard](assets/image/juju-driver.jpg)
+![Driver Dashboard](assets/image/juju-driver.png)
 
 **Passenger Dashboard:** Displays booked rides, impact metrics, and quick actions to find rides.
-![Passenger Dashboard](assets/image/juju-passenger.jpg)
+![Passenger Dashboard](assets/image/juju-passenger.png)
 
 **Moderator Dashboard:** Dedicated workspace for reviewing user reports and monitoring platform safety.
 ![Moderator Dashboard](assets/image/juju-moderator.png)
 
 **System Administrator Dashboard:** High-level analytics tracking total users, system-wide environmental impact, and user distribution.
-![Admin Dashboard](assets/image/juju-admin.jpg)
+![Admin Dashboard](assets/image/juju-admin.png)
 
 ## 👥 Core System Features by User Role
 The system handles interactions, permissions, and session management for four distinct user roles:
